@@ -11,7 +11,7 @@ $products = $statement->fetchAll(PDO::FETCH_ASSOC);
 
 <?php include_once "../../views/partials/header.php"; ?>
 
-    <h1>Lista de produtos</h1>
+    <h1>Lista de produuutos</h1>
 
     <p>
         <a href="create.php" class="btn btn-success">Criar novo produto</a>
